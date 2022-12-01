@@ -1,6 +1,0 @@
-{"type":"analytics.custom.v1","msg":{"ts":1666945137460,"t_since_start":29498546,"name":"unity.sceneLoad","custom_params":{"level_name":"main","level_num":0,"total_levels":3}}}
-{"type":"analytics.custom.v1","msg":{"ts":1666945149182,"t_since_start":41220995,"name":"unity.sceneLoad","custom_params":{"level_name":"gameworld","level_num":1,"total_levels":3}}}
-{"type":"analytics.appRunning.v1","msg":{"ts":1666945211966,"t_since_start":104005277,"duration":1666945195,"local_time_offset":-10800000}}
-{"type":"analytics.appRunning.v1","msg":{"ts":1666945331978,"t_since_start":224016689,"duration":1666945315,"local_time_offset":-10800000}}
-{"type":"analytics.appRunning.v1","msg":{"ts":1666945411308,"t_since_start":303347482,"duration":287,"local_time_offset":-10800000}}
-(1){"type":"analytics.appStop.v1","msg":{"ts":1666945411309,"t_since_start":303348038}}
