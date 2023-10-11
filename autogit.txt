@@ -1,0 +1,225 @@
+
+C:\Projects\Starcom>pushd C:\Projects 
+
+C:\Projects>autogit-all
+// in "ACC23" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+
+C:\Projects>(
+ 
+ cd "AHK"  
+  
+ autogit Update all  
+ cd .. 
+) 
+// in "AHK" \\ --------------------------------
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+// in "Axilox" \\ --------------------------------
+On branch notus
+Your branch is up to date with 'origin/notus'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch notus
+Your branch is up to date with 'origin/notus'.
+
+nothing to commit, working tree clean
+// in "C2077" \\ --------------------------------
+On branch art
+Your branch is up to date with 'origin/art'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch art
+Your branch is up to date with 'origin/art'.
+
+nothing to commit, working tree clean
+// in "C2077_" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "CarMS" \\ --------------------------------
+On branch i5.18
+Your branch is up to date with 'origin/i5.18'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch i5.18
+Your branch is up to date with 'origin/i5.18'.
+
+nothing to commit, working tree clean
+// in "ETS" \\ --------------------------------
+On branch 148
+Your branch is up to date with 'origin/148'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch 148
+Your branch is up to date with 'origin/148'.
+
+nothing to commit, working tree clean
+// in "EVE" \\ --------------------------------
+On branch 230928
+Your branch is up to date with 'origin/230928'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch 230928
+Your branch is up to date with 'origin/230928'.
+
+nothing to commit, working tree clean
+// in "EvochronLegacySE" \\ --------------------------------
+On branch v2.0308
+Your branch is up to date with 'origin/v2.0308'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch v2.0308
+Your branch is up to date with 'origin/v2.0308'.
+
+nothing to commit, working tree clean
+// in "FactoryGame" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "FS22.1.10" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "Game" \\ --------------------------------
+On branch 230929
+Your branch is up to date with 'origin/230929'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch 230929
+Your branch is up to date with 'origin/230929'.
+
+nothing to commit, working tree clean
+// in "Grim" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "horizons" \\ --------------------------------
+On branch v3.12
+Your branch is up to date with 'origin/v3.12'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch v3.12
+Your branch is up to date with 'origin/v3.12'.
+
+nothing to commit, working tree clean
+// in "MSFS" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "NMS" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "Notus" \\ --------------------------------
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Already up to date.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+// in "obs-studio" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "POE" \\ --------------------------------
+On branch 230916
+Your branch is up to date with 'origin/230916'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch 230916
+Your branch is up to date with 'origin/230916'.
+
+nothing to commit, working tree clean
+// in "Reshade" \\ --------------------------------
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch initial
+Your branch is up to date with 'origin/initial'.
+
+nothing to commit, working tree clean
+// in "SpaceRangersHD" \\ --------------------------------
+On branch current
+Your branch is up to date with 'origin/current'.
+
+nothing to commit, working tree clean
+Already up to date.
+On branch current
+Your branch is up to date with 'origin/current'.
+
+nothing to commit, working tree clean
+// in "Starcom" \\ --------------------------------
