@@ -227,3 +227,5 @@ nothing to commit, working tree clean
  1 file changed, 225 insertions(+)
  create mode 100644 autogit.txt
 Already up to date.
+[initial 7f5b0ab] merged theirs
+ 1 file changed, 4 insertions(+)
